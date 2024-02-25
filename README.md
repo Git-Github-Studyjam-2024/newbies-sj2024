@@ -1,1 +1,1 @@
-# newbies-sj2024
+# Team: NewBies
