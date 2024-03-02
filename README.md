@@ -1,2 +1,2 @@
 # Team: NewBies
-# "Newbies: Embracing Challenges, Igniting Innovation"
+# "Newbies: Coding Our Way to Success."
