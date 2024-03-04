@@ -1,32 +1,41 @@
 body {
-      font-family: Arial, sans-serif;
-    background: url('Web_intro.png') no-repeat center center fixed; 
+    font-family: Arial, sans-serif;
+    background: url('background.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  }
-  .header {
-      display: flex;
-      justify-content: space-between;
-      padding: 20px;
-      background-color: #f8f9fa;
-  }
-  .header img {
-      height: 50px;
-  }
-  .header nav a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: black;
-  }
-  .home-content {
-      text-align: center;
-      padding: 50px;
-  }
-  .content {
-      text-align: center;
-      padding: 50px;
-  }
+}
 
-  
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.header img {
+    height: 50px;
+}
+
+.header nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.home-content {
+    text-align: center;
+    padding: 50px;
+}
+
+.content {
+    text-align: center;
+    padding: 50px;
+}
+
+.member-Huy img {
+    width: 20%;
+    height: auto;
+
+}
