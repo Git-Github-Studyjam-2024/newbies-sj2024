@@ -7,6 +7,9 @@ body {
     background-size: cover;
 }
 
+ .Thinh img {
+    width: 20%;
+    height: auto;
 .header {
     display: flex;
     justify-content: space-between;
