@@ -1,10 +1,52 @@
 body {
-    font-family: Arial, sans-serif;
-    background: url('background.png') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.header img {
+  height: 50px;
+}
+
+.header nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.home-content {
+  text-align: center;
+  padding: 50px;
+  background: url("Web_intro.png") no-repeat center center fixed;
+  height: 500px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content {
+  text-align: center;
+  padding: 50px;
+}
+
+.member img {
+  width: 30%;
+  height: auto;
+  font-family: Arial, sans-serif;
+  background: url('background.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
  .Thinh img {
